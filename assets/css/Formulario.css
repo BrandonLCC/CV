@@ -1,0 +1,75 @@
+.Formulario {
+   
+    width: 400px;
+    height: 450px;
+    background-color: rgb(248, 183, 99);
+    margin: 150px 0px 0px 600px;
+    padding: 50px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-image:url(/assets/img/Fondo.jpg);
+    background-size: cover;
+    border: 3px solid;
+    border-color: rgb(255, 255, 255);
+    
+}
+
+
+.Formulario_label {
+padding: 20px 1px 0px 0px;
+height: 20px;
+
+}
+
+.Formulario_label_estaticos {
+    padding: 20px 1px 0px 0px;
+    width: 10px;
+    height: 10px;
+    margin: 10px;    
+    
+
+
+} 
+
+.input_radio {
+ margin: -20px 0px 10px 100px;   
+
+}
+
+.botton{
+margin-top: 20px;
+width: 10px;
+height: 10px;
+
+}
+
+h1 {
+
+margin-left: 100px;
+
+}
+label { 
+    position: absolute;
+    
+}
+
+
+input {
+background-color:rgb(255, 255, 255);
+width: 200px;
+height: 20px;
+margin: 0px 0px 0px 100px;
+border-radius: 10px;
+;
+
+}
+body {
+font-family:'Courier New', Courier, monospace ;  
+background-image:url(/assets/img/Fondo.jpg);
+background-size: cover;
+backdrop-filter:inherit(10);
+
+}
+
+
+   
